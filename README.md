@@ -5,7 +5,7 @@
   <img src="assets/hero-terminal.svg" width="100%" alt="Zeanajaa's terminal welcome banner" />
 </picture>
 
-<h1>Zeanajaa</h1>
+<h1>ARVAZEANN</h1>
 
 <p><strong>Informatics student · aspiring software developer</strong></p>
 <p>Turning curiosity into code.</p>

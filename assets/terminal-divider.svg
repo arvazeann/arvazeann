@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="38" viewBox="0 0 1200 38">
+  <rect x="0" y="18" width="1200" height="1" fill="#174D24"/>
+  <path d="M0 19H510L530 7H670L690 19H1200" fill="none" stroke="#39FF14" stroke-opacity=".7"/>
+  <circle cx="600" cy="19" r="4" fill="#39FF14"/>
+  <text x="548" y="34" fill="#83A889" font-family="monospace" font-size="10">:: SYSTEM LINK ::</text>
+</svg>

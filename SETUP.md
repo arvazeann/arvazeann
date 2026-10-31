@@ -1,39 +1,37 @@
-# Setup — arvazeann GitHub Profile
+# Profile README assets
 
-## Files included
+The profile README uses small local images and one GitHub Actions workflow:
 
-- `README.md` — profile layout and dynamic cards.
-- `assets/profile-header.svg` — custom dark-futuristic banner.
-- `.github/workflows/snake.yml` — generates the contribution snake and publishes it to the `output` branch.
+- `assets/hero-terminal.gif` — local looping terminal boot animation.
+- `assets/matrix-rain.gif` — local looping matrix rain animation.
+- `assets/hero-terminal.svg` and `assets/matrix-rain.svg` — static fallbacks linked below the GIFs.
+- `assets/terminal-divider.svg` and `assets/neon-footer.svg` — static green terminal decoration.
+- `.github/workflows/snake.yml` — generates light and dark green contribution snake SVGs and publishes them to the `output` branch.
+- `scripts/generate_assets.py` — regenerates the local GIF and SVG artwork with Pillow.
 
-## Install
+## Regenerate the local art
 
-1. Open your profile repository: `https://github.com/arvazeann/arvazeann`.
-2. Upload/replace `README.md` in the repository root.
-3. Upload `assets/profile-header.svg`, keeping the `assets` folder.
-4. Upload `.github/workflows/snake.yml`, keeping the folder structure.
-5. Commit the changes to your default branch (usually `main`).
-6. Open the repository's **Actions** tab.
-7. If prompted, enable GitHub Actions for the repository.
-8. Run **Generate contribution snake** using **Run workflow**, or wait for the scheduled run.
-9. After the workflow succeeds, the `output` branch should contain the two generated SVG files.
+Python 3 and Pillow are required:
 
-The README references the dark snake at:
+```bash
+python -m pip install Pillow
+python scripts/generate_assets.py
+```
 
-`https://raw.githubusercontent.com/arvazeann/arvazeann/output/github-contribution-grid-snake-dark.svg`
+The GIFs are generated locally and are under 250 KB each in the current build. No hosted image-generation service is needed.
 
-## Notes
+## Enable the contribution snake
 
-- The workflow needs repository Actions to be enabled and permission to write repository contents. The workflow declares `contents: write`.
-- The first snake image may not appear until the first workflow run succeeds.
-- The typing animation, GitHub stats, streak card, activity graph, skill icons, and footer wave use third-party image services. They can occasionally be rate-limited or unavailable.
-- GitHub README supports Markdown and a limited subset of HTML; it does not run arbitrary JavaScript/CSS. The motion is delivered as animated SVG/image services and GitHub Actions-generated assets.
-- Statistics reflect public GitHub data and may be delayed or incomplete. Top-language cards describe repository language distribution, not skill level.
-- If your default branch is not `main`, edit the `push.branches` entry in `.github/workflows/snake.yml`.
-- The profile README appears only when the repository is public, named exactly `arvazeann`, and contains a non-empty `README.md` in its root.
+1. Push the repository changes to the default branch (`main`).
+2. Ensure GitHub Actions are enabled for the repository.
+3. Under **Settings → Actions → General → Workflow permissions**, allow the workflow to write repository contents if the organization or repository policy requires it. The workflow declares `contents: write` and uses `GITHUB_TOKEN`.
+4. Open **Actions → Generate contribution snake → Run workflow**, or wait for its daily schedule.
+5. After a successful run, the `output` branch contains `github-snake.svg` and `github-snake-dark.svg`, which the README loads from `raw.githubusercontent.com`.
 
-## Optional edits
+## Rendering notes
 
-- Replace the portfolio URL if your deployment domain changes.
-- Add LinkedIn or other contact links only after confirming the public URLs.
-- Keep the "Currently learning" section separate from technologies used in shipped projects.
+- GitHub does not allow profile README CSS or JavaScript to set a full-page background. The dark terminal environment is built from image assets, HTML tables, Markdown, and code blocks.
+- GitHub displays GIFs as images, but reduced-motion settings and client behavior can vary. Static SVG fallbacks are linked beside the hero animations.
+- The contribution streak comes from `streak-stats.demolab.com`, a third-party service, so it may be temporarily unavailable. The public GitHub Readme Stats endpoint and Activity Graph endpoint returned HTTP errors during the audit and were removed.
+- The README includes no live demo links because the deployments could not be verified as reachable during this pass.
+- The language and framework list is based on public project source and documentation. IoT, AI, and computer vision are shown only as interests being explored.

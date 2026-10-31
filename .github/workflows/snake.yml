@@ -16,13 +16,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate contribution snake
+      - name: Generate neon-green contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%2339FF14&color_dots=%23E5FFE5,%23A8FF9E,%237CFF8A,%2300AA2A,%230A5F20
+            dist/github-snake-dark.svg?color_snake=%2339FF14&color_dots=%230A0F0A,%230D2B12,%23174D24,%2300AA2A,%2339FF14
 
       - name: Publish generated files to output branch
         uses: peaceiris/actions-gh-pages@v4

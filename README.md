@@ -1,130 +1,147 @@
 <div align="center">
 
-<img src="assets/profile-header.svg" width="100%" alt="Zeanajaa — building beyond curiosity">
+<img src="assets/hero-terminal.gif" width="100%" alt="Animated Linux terminal booting the arvazeann developer environment and revealing Zeanajaa's identity" />
+
+<sub><a href="assets/hero-terminal.svg">Static hero fallback</a></sub>
 
 <br>
 
-<a href="https://github.com/arvazeann">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=72A7FF&center=true&vCenter=true&width=650&lines=Informatics+Student;Curious+about+how+technology+works;Building+ideas+into+real+projects;Learning.+Experimenting.+Improving." alt="Typing SVG">
-</a>
+<img src="assets/matrix-rain.gif" width="100%" alt="Looping green Matrix-style code rain on a black terminal background" />
+
+<sub><a href="assets/matrix-rain.svg">Static rain fallback</a></sub>
 
 <br>
 
-<a href="https://github.com/arvazeann?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-181D2B?style=for-the-badge&logo=github&logoColor=8AB4FF" alt="Repositories">
-</a>
-<a href="https://ruanglagi.vercel.app/">
-  <img src="https://img.shields.io/badge/RUANGLAGI-LIVE%20PROJECT-181D2B?style=for-the-badge&logo=vercel&logoColor=8AB4FF" alt="RuangLagi">
-</a>
-<a href="https://portofolio-bad-code1.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-181D2B?style=for-the-badge&logo=vercel&logoColor=8AB4FF" alt="Portfolio">
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=850&color=39FF14&center=true&vCenter=true&width=650&lines=Turning+curiosity+into+code.;Informatics+student.;Software+developer+in+progress.)](https://github.com/arvazeann)
+
+**`zeanajaa`** · Informatics student · technology learner
+
+[ GitHub ](https://github.com/arvazeann) · [ Projects ](https://github.com/arvazeann?tab=repositories)
 
 </div>
 
----
+<img src="assets/terminal-divider.svg" width="100%" alt="Green terminal link divider" />
 
-## `01` — A little about me
+## `01` — user profile
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  NAME       Zeanajaa                                          │
-│  ROLE       Informatics Student                               │
-│  MINDSET    Curious mind. Continuous learner.                 │
-│  INTERESTS  Software · AI · IoT · Computer Vision             │
-│  CURRENTLY  Exploring, building, and learning through code.   │
-└──────────────────────────────────────────────────────────────┘
+```console
+root@arvazeann:~$ whoami
+> Informatics student
+> Software development enthusiast
+> Technology explorer
+
+root@arvazeann:~$ cat interests.txt
+> Software engineering
+> Artificial intelligence · Internet of Things · computer vision
+> Web development
+
+root@arvazeann:~$ cat philosophy.txt
+> Learn continuously.
+> Build practically.
+> Improve consistently.
 ```
 
-I enjoy understanding how technology works and turning ideas into practical projects. I'm currently exploring different areas of software development while strengthening my programming fundamentals.
+I'm learning by exploring new technologies and building practical projects. I’m especially interested in software development, IoT, AI, and computer vision; these are learning interests, not claims of expertise.
 
-I don't claim to know everything — I'm here to learn, experiment, make mistakes, and build better things over time.
+<img src="assets/terminal-divider.svg" width="100%" alt="Green terminal link divider" />
 
-## `02` — What I'm exploring
+## `02` — system modules
 
-<div align="center">
+```text
+[ LANGUAGES / USED IN PUBLIC PROJECTS ]
+  C · JavaScript · TypeScript · PHP
 
-| SOFTWARE DEVELOPMENT | INTELLIGENT SYSTEMS | CONNECTED DEVICES |
-|:---:|:---:|:---:|
-| Web applications & programming fundamentals | AI & Computer Vision | IoT & embedded projects |
-| Building useful digital products | Learning how models solve problems | Connecting sensors, data, and software |
+[ FRONTEND / USED IN PUBLIC PROJECTS ]
+  React · Next.js · Tailwind CSS
 
-</div>
+[ BACKEND & DATA / USED IN RUANGLAGI ]
+  PostgreSQL · Prisma · Supabase Storage · Auth.js · Zod
 
-## `03` — Tech stack
+[ DEV TOOLS / USED HERE ]
+  Git · GitHub Actions
 
-**Used in my projects**
+[ CURRENTLY EXPLORING ]
+  Python · Arduino · OpenCV · IoT · artificial intelligence · computer vision
+```
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,postgres,prisma,git,github&theme=dark&perline=8" alt="Technologies used in projects">
-  </a>
-</p>
+The project stack reflects visible public code and documentation. Python, Arduino, and OpenCV are technologies I'm exploring; they are not presented as experience from shipped projects. These lists describe learning and project exposure, not proficiency.
 
-**Currently learning and exploring**
+<img src="assets/terminal-divider.svg" width="100%" alt="Green terminal link divider" />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,arduino,opencv&theme=dark&perline=8" alt="Learning interests">
-  </a>
-</p>
+## `03` — project directory
 
-## `04` — Selected work
+```console
+root@arvazeann:~/projects$ ls -la
+drwxr-xr-x  Hackaton/       # RuangLagi marketplace MVP
+drwxr-xr-x  Portofolio/    # personal learning & project portfolio
+```
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/arvazeann/Hackaton">
-        <strong>RuangLagi — Hackaton ↗</strong>
-      </a>
-      <br>
-      <strong>Preloved Marketplace</strong>
-      <p>A marketplace MVP for boarding-house and student needs. Built around product discovery, buyer/seller flows, and marketplace management.</p>
-      <a href="https://ruanglagi.vercel.app/">Live demo ↗</a>
+      <strong><a href="https://github.com/arvazeann/Hackaton">./Hackaton — RuangLagi ↗</a></strong>
+      <p>A marketplace MVP for pre-loved goods aimed at students living away from home. Its documented features include public catalogs and stores, buyer and seller flows, favorites, orders, and an admin area.</p>
+      <code>Next.js · TypeScript · PostgreSQL · Prisma · Auth.js · Zod · Supabase Storage</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/arvazeann/Portofolio">
-        <strong>Personal Portfolio ↗</strong>
-      </a>
-      <br>
-      <strong>Personal Portfolio</strong>
+      <strong><a href="https://github.com/arvazeann/Portofolio">./Portofolio ↗</a></strong>
       <p>A personal website for presenting my profile, documenting my learning journey, and showcasing projects.</p>
-      <a href="https://portofolio-bad-code1.vercel.app/">Live demo ↗</a>
+      <code>Next.js · React · TypeScript</code>
     </td>
   </tr>
 </table>
 
-## `05` — GitHub activity
+<img src="assets/terminal-divider.svg" width="100%" alt="Green terminal link divider" />
 
-<div align="center">
+## `04` — system monitor
 
-<img width="70%" src="https://streak-stats.demolab.com?user=arvazeann&theme=tokyonight&hide_border=true&background=0D1117&ring=79A9FF&fire=79A9FF&currStreakLabel=79A9FF" alt="GitHub contribution streak">
-
-</div>
-
-## `06` — Contribution trail
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/arvazeann/arvazeann/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%">
-
-</div>
-
-## `07` — Find me
+```text
+┌─ PUBLIC REPOSITORY SIGNAL ──────────────────────────────┐
+│ Languages observed: C · JavaScript · TypeScript · PHP   │
+│ Contribution view: generated from GitHub's public graph │
+│ Streak display: third-party live card                   │
+└─────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
 <a href="https://github.com/arvazeann">
-  <img src="https://img.shields.io/badge/GitHub-arvazeann-171D2B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://portofolio-bad-code1.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20website-171D2B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  <img src="https://streak-stats.demolab.com?user=arvazeann&theme=dark&hide_border=true&background=050805&ring=39FF14&fire=DFFF00&currStreakLabel=39FF14&sideLabels=83A889&currStreakNum=D5FFD5&sideNums=D5FFD5&dates=83A889" width="70%" alt="GitHub contribution streak for arvazeann" />
 </a>
 
-<br><br>
+</div>
 
-<sub>「 Stay curious. Keep building. 」</sub>
+The streak image is a live third-party embed and may be unavailable occasionally. I removed the GitHub Readme Stats cards and activity graph after their public endpoints returned errors. The contribution snake below is generated by this repository's own GitHub Actions workflow.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:172A50,100:4776C7&height=100&section=footer" width="100%" alt="Decorative footer wave">
+<img src="assets/terminal-divider.svg" width="100%" alt="Green terminal link divider" />
+
+## `05` — contribution process
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arvazeann/arvazeann/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arvazeann/arvazeann/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/arvazeann/arvazeann/output/github-snake.svg" width="100%" alt="Animated neon-green snake crossing my GitHub contribution grid" />
+</picture>
+
+</div>
+
+<img src="assets/terminal-divider.svg" width="100%" alt="Green terminal link divider" />
+
+## `06` — session terminated
+
+```console
+root@arvazeann:~$ echo "Thanks for visiting"
+[ CONNECTION ESTABLISHED ]
+STAY CURIOUS. KEEP BUILDING.
+SESSION STATUS: ONLINE
+```
+
+<div align="center">
+
+<a href="https://github.com/arvazeann">[ github.com/arvazeann ]</a>
+
+<img src="assets/neon-footer.svg" width="100%" alt="Green terminal footer: connection established, stay curious, keep building" />
 
 </div>

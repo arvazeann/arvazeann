@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360">
+  <rect width="800" height="360" rx="12" fill="#050805"/><rect x="12" y="12" width="776" height="336" rx="10" fill="#0A0F0A" stroke="#174D24" stroke-width="2"/>
+  <path d="M13 48h774" stroke="#174D24"/><circle cx="30" cy="30" r="5" fill="#ff5f56"/><circle cx="50" cy="30" r="5" fill="#ffbd2e"/><circle cx="70" cy="30" r="5" fill="#27c93f"/>
+  <g font-family="monospace" font-size="14"><text x="38" y="84" fill="#39FF14">[ SYSTEM BOOT ]</text><text x="38" y="113" fill="#D5FFD5">[ INITIALIZING DEVELOPER ENVIRONMENT... ]</text><text x="38" y="142" fill="#D5FFD5">[ LOADING MODULES.................. OK ]</text><text x="38" y="171" fill="#D5FFD5">[ CONNECTING TO GITHUB............. OK ]</text><text x="38" y="200" fill="#00FF41">[ USER: ARVAZEANN ]</text><text x="38" y="229" fill="#39FF14">[ ACCESS GRANTED ]</text><text x="38" y="270" fill="#39FF14">root@arvazeann:~$ whoami</text><text x="38" y="306" fill="#D5FFD5" font-size="24">ZEANAJAA</text><text x="38" y="330" fill="#83A889">INFORMATICS STUDENT / DEVELOPER IN PROGRESS</text></g>
+</svg>

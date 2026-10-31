@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+  <rect width="1200" height="110" rx="10" fill="#050805"/>
+  <path d="M0 12H450L470 32H730L750 12H1200" fill="none" stroke="#39FF14" stroke-opacity=".75"/>
+  <text x="600" y="62" text-anchor="middle" fill="#39FF14" font-family="monospace" font-size="15">[ CONNECTION ESTABLISHED ]</text>
+  <text x="600" y="88" text-anchor="middle" fill="#83A889" font-family="monospace" font-size="12">STAY CURIOUS.  KEEP BUILDING.</text>
+</svg>

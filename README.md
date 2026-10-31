@@ -1,96 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:0891b2&height=190&section=header&text=zeanajaa&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Learning%20by%20building&descAlignY=60&descSize=17" alt="A dark blue gradient wave banner reading zeanajaa — Learning by building" width="100%" />
+<img src="assets/profile-header.svg" width="100%" alt="Zeanajaa — building beyond curiosity">
 
-# Hi, I'm Zean 👋
+<br>
 
-**Informatics student · curious about how software works · learning by building**
+<a href="https://github.com/arvazeann">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=72A7FF&center=true&vCenter=true&width=650&lines=Informatics+Student;Curious+about+how+technology+works;Building+ideas+into+real+projects;Learning.+Experimenting.+Improving." alt="Typing SVG">
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=22D3EE&center=true&vCenter=true&width=520&lines=Exploring+software+development;Building+practical+projects;Learning+about+IoT%2C+AI+%26+computer+vision)](https://git.io/typing-svg)
+<br>
 
-[GitHub](https://github.com/arvazeann) · [Portfolio](https://github.com/arvazeann/Portofolio)
+<a href="https://github.com/arvazeann?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-181D2B?style=for-the-badge&logo=github&logoColor=8AB4FF" alt="Repositories">
+</a>
+<a href="https://ruanglagi.vercel.app/">
+  <img src="https://img.shields.io/badge/RUANGLAGI-LIVE%20PROJECT-181D2B?style=for-the-badge&logo=vercel&logoColor=8AB4FF" alt="RuangLagi">
+</a>
+<a href="https://portofolio-bad-code1.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-181D2B?style=for-the-badge&logo=vercel&logoColor=8AB4FF" alt="Portfolio">
+</a>
 
 </div>
 
-If the cards don't load, view my [GitHub profile and repositories](https://github.com/arvazeann).
+---
 
-## About me
+## `01` — A little about me
 
-I'm an Informatics student and an enthusiastic technology learner working toward becoming a software developer. I enjoy exploring new tools and turning what I learn into practical projects, from coursework and small web apps to a larger marketplace project.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  NAME       Zeanajaa                                          │
+│  ROLE       Informatics Student                               │
+│  MINDSET    Curious mind. Continuous learner.                 │
+│  INTERESTS  Software · AI · IoT · Computer Vision             │
+│  CURRENTLY  Exploring, building, and learning through code.   │
+└──────────────────────────────────────────────────────────────┘
+```
 
-My interests include programming, software development, IoT, artificial intelligence, and computer vision. I'm still learning and experimenting, and I value steady progress over pretending to know it all.
+I enjoy understanding how technology works and turning ideas into practical projects. I'm currently exploring different areas of software development while strengthening my programming fundamentals.
 
-## What I'm exploring
+I don't claim to know everything — I'm here to learn, experiment, make mistakes, and build better things over time.
 
-- Building web applications and understanding how their pieces fit together.
-- Strengthening my programming foundations through coursework and projects.
-- Learning more about IoT, AI, and computer vision.
+## `02` — What I'm exploring
 
-## Tech I've used
+<div align="center">
 
-These are based on the languages and project dependencies visible in my public repositories. Repository presence reflects project use, not a claim of professional mastery.
+| SOFTWARE DEVELOPMENT | INTELLIGENT SYSTEMS | CONNECTED DEVICES |
+|:---:|:---:|:---:|
+| Web applications & programming fundamentals | AI & Computer Vision | IoT & embedded projects |
+| Building useful digital products | Learning how models solve problems | Connecting sensors, data, and software |
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=222" alt="C" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</div>
+
+## `03` — Tech stack
+
+**Used in my projects**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,postgres,prisma,git,github&theme=dark&perline=8" alt="Technologies used in projects">
+  </a>
 </p>
 
-**Currently learning:** IoT, artificial intelligence, and computer vision. These are interests I'm exploring; I haven't listed specific tools or frameworks for them because my public projects don't establish those yet.
+**Currently learning and exploring**
 
-## Featured projects
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,arduino,opencv&theme=dark&perline=8" alt="Learning interests">
+  </a>
+</p>
 
-### [RuangLagi — Hackaton](https://github.com/arvazeann/Hackaton)
+## `04` — Selected work
 
-A marketplace MVP for pre-loved goods aimed at students living away from home. The project includes public catalogs and stores, buyer and seller flows, favorites, orders, and an admin area. Its documented stack includes Next.js, TypeScript, PostgreSQL, Prisma, Auth.js, Zod, and Supabase Storage.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/arvazeann/Hackaton">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=arvazeann&repo=Hackaton&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79A9FF&icon_color=79A9FF" alt="RuangLagi repository card">
+      </a>
+      <br>
+      <strong>RuangLagi — Preloved Marketplace</strong>
+      <p>A marketplace MVP for boarding-house and student needs. Built around product discovery, buyer/seller flows, and marketplace management.</p>
+      <a href="https://ruanglagi.vercel.app/">Live demo ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/arvazeann/Portofolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=arvazeann&repo=Portofolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79A9FF&icon_color=79A9FF" alt="Portfolio repository card">
+      </a>
+      <br>
+      <strong>Personal Portfolio</strong>
+      <p>A personal website for presenting my profile, documenting my learning journey, and showcasing projects.</p>
+      <a href="https://portofolio-bad-code1.vercel.app/">Live demo ↗</a>
+    </td>
+  </tr>
+</table>
 
-### [Personal portfolio](https://github.com/arvazeann/Portofolio)
-
-A personal website focused on documenting my learning journey and projects. Built with Next.js, React, and TypeScript, with a custom visual presentation and project pages.
-
-### [More learning projects](https://github.com/arvazeann?tab=repositories)
-
-My other public repositories include C programming coursework (a number-guessing game and a student grade report program), a PHP and MySQL to-do list, a React team-profile site, and a simple blog project.
-
-## GitHub activity
+## `05` — GitHub activity
 
 <div align="center">
 
-<a href="https://github.com/arvazeann">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arvazeann&show_icons=true&hide_title=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats for arvazeann" />
-</a>
-<a href="https://github.com/arvazeann">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvazeann&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Most used languages in arvazeann's public repositories" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arvazeann&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=79A9FF&icon_color=79A9FF&text_color=C9D1D9" alt="GitHub statistics">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvazeann&layout=compact&hide_border=true&bg_color=0D1117&title_color=79A9FF&text_color=C9D1D9" alt="Most used languages">
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=arvazeann&theme=tokyonight&hide_border=true&background=0D1117&ring=79A9FF&fire=79A9FF&currStreakLabel=79A9FF" alt="GitHub contribution streak">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arvazeann&bg_color=0D1117&color=C9D1D9&line=79A9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph">
 
 </div>
 
-<details>
-<summary>Animated contribution snake (generated by this repository's GitHub Actions workflow)</summary>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arvazeann/arvazeann/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arvazeann/arvazeann/output/github-snake.svg" />
-  <img alt="Animated snake moving across my GitHub contribution graph" src="https://raw.githubusercontent.com/arvazeann/arvazeann/output/github-snake.svg" width="100%" />
-</picture>
-
-</details>
-
-## Find me
-
-- [GitHub](https://github.com/arvazeann)
-- [Portfolio repository](https://github.com/arvazeann/Portofolio)
+## `06` — Contribution trail
 
 <div align="center">
 
-*Curious today. Building something better tomorrow.*
+<img src="https://raw.githubusercontent.com/arvazeann/arvazeann/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%">
+
+</div>
+
+## `07` — Find me
+
+<div align="center">
+
+<a href="https://github.com/arvazeann">
+  <img src="https://img.shields.io/badge/GitHub-arvazeann-171D2B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://portofolio-bad-code1.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20website-171D2B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+
+<br><br>
+
+<sub>「 Stay curious. Keep building. 」</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:172A50,100:4776C7&height=100&section=footer" width="100%" alt="Decorative footer wave">
 
 </div>

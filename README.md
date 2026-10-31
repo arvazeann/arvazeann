@@ -63,7 +63,11 @@ I’m Zean, an Informatics student who enjoys learning how technology works and 
 The project with the most commits authored by me in the past 30 days. This card refreshes daily.
 
 <!-- active-project:start -->
-<div align="center"><sub>Auto-updated daily from public GitHub commit activity.</sub></div>
+<div align="center">
+<a href="https://github.com/arvazeann/Hackaton">
+  <img src="https://raw.githubusercontent.com/arvazeann/arvazeann/output/active-project.svg" width="100%" alt="Most active public project in the last 30 days: Hackaton" />
+</a>
+</div>
 <!-- active-project:end -->
 
 <img src="assets/terminal-divider.svg" width="100%" alt="" />

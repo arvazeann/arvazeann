@@ -75,16 +75,16 @@ I don't claim to know everything — I'm here to learn, experiment, make mistake
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/arvazeann/Hackaton">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=arvazeann&repo=Hackaton&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79A9FF&icon_color=79A9FF" alt="RuangLagi repository card">
+        <strong>RuangLagi — Hackaton ↗</strong>
       </a>
       <br>
-      <strong>RuangLagi — Preloved Marketplace</strong>
+      <strong>Preloved Marketplace</strong>
       <p>A marketplace MVP for boarding-house and student needs. Built around product discovery, buyer/seller flows, and marketplace management.</p>
       <a href="https://ruanglagi.vercel.app/">Live demo ↗</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/arvazeann/Portofolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=arvazeann&repo=Portofolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79A9FF&icon_color=79A9FF" alt="Portfolio repository card">
+        <strong>Personal Portfolio ↗</strong>
       </a>
       <br>
       <strong>Personal Portfolio</strong>
@@ -98,16 +98,7 @@ I don't claim to know everything — I'm here to learn, experiment, make mistake
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arvazeann&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=79A9FF&icon_color=79A9FF&text_color=C9D1D9" alt="GitHub statistics">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvazeann&layout=compact&hide_border=true&bg_color=0D1117&title_color=79A9FF&text_color=C9D1D9" alt="Most used languages">
-
-<br><br>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=arvazeann&theme=tokyonight&hide_border=true&background=0D1117&ring=79A9FF&fire=79A9FF&currStreakLabel=79A9FF" alt="GitHub contribution streak">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arvazeann&bg_color=0D1117&color=C9D1D9&line=79A9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph">
 
 </div>
 

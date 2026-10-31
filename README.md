@@ -1,16 +1,96 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**arvazeann/arvazeann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:0891b2&height=190&section=header&text=zeanajaa&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Learning%20by%20building&descAlignY=60&descSize=17" alt="A dark blue gradient wave banner reading zeanajaa — Learning by building" width="100%" />
 
-Here are some ideas to get you started:
+# Hi, I'm Zean 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Informatics student · curious about how software works · learning by building**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=22D3EE&center=true&vCenter=true&width=520&lines=Exploring+software+development;Building+practical+projects;Learning+about+IoT%2C+AI+%26+computer+vision)](https://git.io/typing-svg)
+
+[GitHub](https://github.com/arvazeann) · [Portfolio](https://github.com/arvazeann/Portofolio)
+
+</div>
+
+If the cards don't load, view my [GitHub profile and repositories](https://github.com/arvazeann).
+
+## About me
+
+I'm an Informatics student and an enthusiastic technology learner working toward becoming a software developer. I enjoy exploring new tools and turning what I learn into practical projects, from coursework and small web apps to a larger marketplace project.
+
+My interests include programming, software development, IoT, artificial intelligence, and computer vision. I'm still learning and experimenting, and I value steady progress over pretending to know it all.
+
+## What I'm exploring
+
+- Building web applications and understanding how their pieces fit together.
+- Strengthening my programming foundations through coursework and projects.
+- Learning more about IoT, AI, and computer vision.
+
+## Tech I've used
+
+These are based on the languages and project dependencies visible in my public repositories. Repository presence reflects project use, not a claim of professional mastery.
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=222" alt="C" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+**Currently learning:** IoT, artificial intelligence, and computer vision. These are interests I'm exploring; I haven't listed specific tools or frameworks for them because my public projects don't establish those yet.
+
+## Featured projects
+
+### [RuangLagi — Hackaton](https://github.com/arvazeann/Hackaton)
+
+A marketplace MVP for pre-loved goods aimed at students living away from home. The project includes public catalogs and stores, buyer and seller flows, favorites, orders, and an admin area. Its documented stack includes Next.js, TypeScript, PostgreSQL, Prisma, Auth.js, Zod, and Supabase Storage.
+
+### [Personal portfolio](https://github.com/arvazeann/Portofolio)
+
+A personal website focused on documenting my learning journey and projects. Built with Next.js, React, and TypeScript, with a custom visual presentation and project pages.
+
+### [More learning projects](https://github.com/arvazeann?tab=repositories)
+
+My other public repositories include C programming coursework (a number-guessing game and a student grade report program), a PHP and MySQL to-do list, a React team-profile site, and a simple blog project.
+
+## GitHub activity
+
+<div align="center">
+
+<a href="https://github.com/arvazeann">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arvazeann&show_icons=true&hide_title=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats for arvazeann" />
+</a>
+<a href="https://github.com/arvazeann">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvazeann&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Most used languages in arvazeann's public repositories" />
+</a>
+
+</div>
+
+<details>
+<summary>Animated contribution snake (generated by this repository's GitHub Actions workflow)</summary>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arvazeann/arvazeann/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arvazeann/arvazeann/output/github-snake.svg" />
+  <img alt="Animated snake moving across my GitHub contribution graph" src="https://raw.githubusercontent.com/arvazeann/arvazeann/output/github-snake.svg" width="100%" />
+</picture>
+
+</details>
+
+## Find me
+
+- [GitHub](https://github.com/arvazeann)
+- [Portfolio repository](https://github.com/arvazeann/Portofolio)
+
+<div align="center">
+
+*Curious today. Building something better tomorrow.*
+
+</div>

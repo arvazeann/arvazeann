@@ -1,147 +1,101 @@
 <div align="center">
 
-<img src="assets/hero-terminal.gif" width="100%" alt="Animated Linux terminal booting the arvazeann developer environment and revealing Zeanajaa's identity" />
+<picture>
+  <source srcset="assets/hero-terminal.gif" type="image/gif" />
+  <img src="assets/hero-terminal.svg" width="100%" alt="Zeanajaa's terminal welcome banner" />
+</picture>
 
-<sub><a href="assets/hero-terminal.svg">Static hero fallback</a></sub>
+<h1>Zeanajaa</h1>
 
-<br>
+<p><strong>Informatics student · aspiring software developer</strong></p>
+<p>Turning curiosity into code.</p>
 
-<img src="assets/matrix-rain.gif" width="100%" alt="Looping green Matrix-style code rain on a black terminal background" />
+<p><a href="#selected-work">Selected work ↓</a></p>
 
-<sub><a href="assets/matrix-rain.svg">Static rain fallback</a></sub>
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=850&color=39FF14&center=true&vCenter=true&width=650&lines=Turning+curiosity+into+code.;Informatics+student.;Software+developer+in+progress.)](https://github.com/arvazeann)
-
-**`zeanajaa`** · Informatics student · technology learner
-
-[ GitHub ](https://github.com/arvazeann) · [ Projects ](https://github.com/arvazeann?tab=repositories)
+<picture>
+  <source srcset="assets/matrix-rain.gif" type="image/gif" />
+  <img src="assets/matrix-rain.svg" width="100%" alt="Green digital rain" />
+</picture>
 
 </div>
 
-<img src="assets/terminal-divider.svg" width="100%" alt="Green terminal link divider" />
+<img src="assets/terminal-divider.svg" width="100%" alt="" />
 
-## `01` — user profile
+## About
 
-```console
-root@arvazeann:~$ whoami
-> Informatics student
-> Software development enthusiast
-> Technology explorer
+I’m Zean, an Informatics student who enjoys learning how technology works and building practical projects. I’m growing my software development skills and exploring **AI, IoT, and computer vision**.
 
-root@arvazeann:~$ cat interests.txt
-> Software engineering
-> Artificial intelligence · Internet of Things · computer vision
-> Web development
+<img src="assets/terminal-divider.svg" width="100%" alt="" />
 
-root@arvazeann:~$ cat philosophy.txt
-> Learn continuously.
-> Build practically.
-> Improve consistently.
-```
-
-I'm learning by exploring new technologies and building practical projects. I’m especially interested in software development, IoT, AI, and computer vision; these are learning interests, not claims of expertise.
-
-<img src="assets/terminal-divider.svg" width="100%" alt="Green terminal link divider" />
-
-## `02` — system modules
-
-```text
-[ LANGUAGES / USED IN PUBLIC PROJECTS ]
-  C · JavaScript · TypeScript · PHP
-
-[ FRONTEND / USED IN PUBLIC PROJECTS ]
-  React · Next.js · Tailwind CSS
-
-[ BACKEND & DATA / USED IN RUANGLAGI ]
-  PostgreSQL · Prisma · Supabase Storage · Auth.js · Zod
-
-[ DEV TOOLS / USED HERE ]
-  Git · GitHub Actions
-
-[ CURRENTLY EXPLORING ]
-  Python · Arduino · OpenCV · IoT · artificial intelligence · computer vision
-```
-
-The project stack reflects visible public code and documentation. Python, Arduino, and OpenCV are technologies I'm exploring; they are not presented as experience from shipped projects. These lists describe learning and project exposure, not proficiency.
-
-<img src="assets/terminal-divider.svg" width="100%" alt="Green terminal link divider" />
-
-## `03` — project directory
-
-```console
-root@arvazeann:~/projects$ ls -la
-drwxr-xr-x  Hackaton/       # RuangLagi marketplace MVP
-drwxr-xr-x  Portofolio/    # personal learning & project portfolio
-```
+## Selected work
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/arvazeann/Hackaton">./Hackaton — RuangLagi ↗</a></strong>
-      <p>A marketplace MVP for pre-loved goods aimed at students living away from home. Its documented features include public catalogs and stores, buyer and seller flows, favorites, orders, and an admin area.</p>
-      <code>Next.js · TypeScript · PostgreSQL · Prisma · Auth.js · Zod · Supabase Storage</code>
+    <td width="48%" valign="middle">
+      <img src="assets/ruanglagi-preview.png" width="100%" alt="RuangLagi marketplace homepage preview" />
     </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/arvazeann/Portofolio">./Portofolio ↗</a></strong>
-      <p>A personal website for presenting my profile, documenting my learning journey, and showcasing projects.</p>
-      <code>Next.js · React · TypeScript</code>
+    <td width="52%" valign="top">
+      <p><sub>01 &nbsp;·&nbsp; MARKETPLACE MVP</sub></p>
+      <h3>RuangLagi</h3>
+      <p>A pre-loved goods marketplace MVP for students living away from home, with public catalogs, buyer and seller flows, favorites, orders, and an admin area.</p>
+      <p><sub>Next.js · TypeScript · PostgreSQL · Prisma · Auth.js · Zod · Supabase Storage</sub></p>
+      <p><a href="https://ruanglagi.vercel.app/">Live project ↗</a> &nbsp;·&nbsp; <a href="https://github.com/arvazeann/Hackaton">Source code ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="48%" valign="middle">
+      <img src="assets/portfolio-preview.png" width="100%" alt="Preview of Zeanajaa's personal portfolio website" />
+    </td>
+    <td width="52%" valign="top">
+      <p><sub>02 &nbsp;·&nbsp; PERSONAL WEBSITE</sub></p>
+      <h3>Personal portfolio</h3>
+      <p>A personal website for sharing my learning journey and selected projects, designed around a clean dark interface.</p>
+      <p><sub>Next.js · React · TypeScript · Tailwind CSS</sub></p>
+      <p><a href="https://portofolio-bad-code1.vercel.app/">Live project ↗</a> &nbsp;·&nbsp; <a href="https://github.com/arvazeann/Portofolio">Source code ↗</a></p>
     </td>
   </tr>
 </table>
 
-<img src="assets/terminal-divider.svg" width="100%" alt="Green terminal link divider" />
+<img src="assets/terminal-divider.svg" width="100%" alt="" />
 
-## `04` — system monitor
+## Most active project · last 30 days
 
-```text
-┌─ PUBLIC REPOSITORY SIGNAL ──────────────────────────────┐
-│ Languages observed: C · JavaScript · TypeScript · PHP   │
-│ Contribution view: generated from GitHub's public graph │
-│ Streak display: third-party live card                   │
-└─────────────────────────────────────────────────────────┘
-```
+The project with the most commits authored by me in the past 30 days. This card refreshes daily.
 
-<div align="center">
+<!-- active-project:start -->
+<div align="center"><sub>Auto-updated daily from public GitHub commit activity.</sub></div>
+<!-- active-project:end -->
 
-<a href="https://github.com/arvazeann">
-  <img src="https://streak-stats.demolab.com?user=arvazeann&theme=dark&hide_border=true&background=050805&ring=39FF14&fire=DFFF00&currStreakLabel=39FF14&sideLabels=83A889&currStreakNum=D5FFD5&sideNums=D5FFD5&dates=83A889" width="70%" alt="GitHub contribution streak for arvazeann" />
-</a>
+<img src="assets/terminal-divider.svg" width="100%" alt="" />
 
-</div>
+## Tools & interests
 
-The streak image is a live third-party embed and may be unavailable occasionally. I removed the GitHub Readme Stats cards and activity graph after their public endpoints returned errors. The contribution snake below is generated by this repository's own GitHub Actions workflow.
+**Used in projects**<br>
+`C` · `JavaScript` · `TypeScript` · `PHP` · `React` · `Next.js` · `Tailwind CSS` · `PostgreSQL` · `Prisma`
 
-<img src="assets/terminal-divider.svg" width="100%" alt="Green terminal link divider" />
+**Currently exploring**<br>
+`Python` · `Arduino` · `OpenCV` · IoT · artificial intelligence · computer vision
 
-## `05` — contribution process
+Project use reflects learning and experimentation, not a claim of professional mastery.
+
+<img src="assets/terminal-divider.svg" width="100%" alt="" />
+
+## Contributions
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arvazeann/arvazeann/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arvazeann/arvazeann/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/arvazeann/arvazeann/output/github-snake.svg" width="100%" alt="Animated neon-green snake crossing my GitHub contribution grid" />
+  <img src="https://raw.githubusercontent.com/arvazeann/arvazeann/output/github-snake.svg" width="100%" alt="Animated green snake moving through my GitHub contribution graph" />
 </picture>
 
 </div>
 
-<img src="assets/terminal-divider.svg" width="100%" alt="Green terminal link divider" />
-
-## `06` — session terminated
-
-```console
-root@arvazeann:~$ echo "Thanks for visiting"
-[ CONNECTION ESTABLISHED ]
-STAY CURIOUS. KEEP BUILDING.
-SESSION STATUS: ONLINE
-```
-
 <div align="center">
 
-<a href="https://github.com/arvazeann">[ github.com/arvazeann ]</a>
+<sub>Curious today. Building something better tomorrow.</sub>
 
-<img src="assets/neon-footer.svg" width="100%" alt="Green terminal footer: connection established, stay curious, keep building" />
+<img src="assets/neon-footer.svg" width="100%" alt="Stay curious. Keep building." />
 
 </div>

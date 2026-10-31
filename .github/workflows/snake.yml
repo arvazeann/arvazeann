@@ -16,6 +16,24 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Refresh most active project card
+        run: python scripts/update_active_project.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated active project link
+        run: |
+          if ! git diff --quiet -- README.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: refresh active project [skip ci]"
+            git push
+          fi
+
       - name: Generate neon-green contribution snake
         uses: Platane/snk@v3
         with:

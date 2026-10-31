@@ -10,8 +10,6 @@
 <p><strong>Informatics student · aspiring software developer</strong></p>
 <p>Turning curiosity into code.</p>
 
-<p><a href="#selected-work">Selected work ↓</a></p>
-
 <picture>
   <source srcset="assets/matrix-rain.gif" type="image/gif" />
   <img src="assets/matrix-rain.svg" width="100%" alt="Green digital rain" />

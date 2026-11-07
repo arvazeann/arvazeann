@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="title desc">
+  <title id="title">Most active public project: Hackaton</title>
+  <desc id="desc">29 commits by me since OCT 08, 2026; language: TypeScript. Updated daily from the GitHub API.</desc>
+  <rect x="1" y="1" width="998" height="218" rx="14" fill="#0A0F0A" stroke="#174D24" stroke-width="2"/>
+  <path d="M1 50H999" stroke="#174D24"/>
+  <circle cx="28" cy="26" r="5" fill="#39FF14"/>
+  <text x="45" y="31" fill="#83A889" font-family="monospace" font-size="13" letter-spacing="1">MOST ACTIVE PROJECT · LAST 30 DAYS</text>
+  <text x="28" y="100" fill="#39FF14" font-family="monospace" font-size="28" font-weight="700">Hackaton</text>
+  <text x="28" y="133" fill="#D5FFD5" font-family="monospace" font-size="15">Public project from my GitHub repositories.</text>
+  <text x="28" y="181" fill="#83A889" font-family="monospace" font-size="13">TypeScript  ·  SINCE OCT 08, 2026</text>
+  <rect x="780" y="70" width="190" height="118" rx="9" fill="#050805" stroke="#174D24"/>
+  <text x="875" y="119" text-anchor="middle" fill="#39FF14" font-family="monospace" font-size="31" font-weight="700">29</text>
+  <text x="875" y="146" text-anchor="middle" fill="#83A889" font-family="monospace" font-size="12">COMMITS BY ME</text>
+  <text x="875" y="167" text-anchor="middle" fill="#83A889" font-family="monospace" font-size="10">LAST 30 DAYS</text>
+</svg>
